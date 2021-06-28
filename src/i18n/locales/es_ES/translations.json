@@ -1,0 +1,23 @@
+{
+  "language": "Lenguaje",
+  "theme": {
+    "name": "Tema",
+    "light": "Claro",
+    "dark": "Oscuro"
+  },
+  "users": {
+    "table": {
+      "name": "Nombre",
+      "age": "Edad",
+      "address": "Dirección",
+      "tags": "Tags"
+    }
+  },
+  "tags": {
+    "nice": "Amable",
+    "developer": "Desarrollador",
+    "loser": "Perdedor",
+    "cool": "Chido",
+    "teacher": "Maestro"
+  }
+}

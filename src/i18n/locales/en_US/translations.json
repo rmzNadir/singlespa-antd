@@ -1,0 +1,23 @@
+{
+  "language": "Language",
+  "theme": {
+    "name": "Theme",
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "users": {
+    "table": {
+      "name": "Name",
+      "age": "Age",
+      "address": "Address",
+      "tags": "Tags"
+    }
+  },
+  "tags": {
+    "nice": "Nice",
+    "developer": "Developer",
+    "loser": "Loser",
+    "cool": "Cool",
+    "teacher": "Teacher"
+  }
+}
